@@ -67,7 +67,6 @@ Networking project created in Cisco Packet Tracer. Made by Mateusz Wołkowicz.
 
 # Note
 
-Some features are not working or are missing due to limitations of Cisco Packet Tracer, however everything that is possible is configured properly:
-* WLC cannot see APs
+Some features are missing due to limitations of Cisco Packet Tracer, however everything that is possible is configured properly:
 * DHCPv6 server is configured but not in use, as CPT does not support Relay Agents
 * random issues may occur that will fix after restarting Cisco Packet Tracer
